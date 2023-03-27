@@ -2020,6 +2020,7 @@ input, select, textarea {
 
 			.wrapper.style4 form input[type=text],
 			.wrapper.style4 form input[type=password],
+			.wrapper.style4 form input[type=email],
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
@@ -2028,6 +2029,7 @@ input, select, textarea {
 
 				.wrapper.style4 form input[type=text]:focus,
 				.wrapper.style4 form input[type=password]:focus,
+				.wrapper.style4 form input[type=email]:focus,
 				.wrapper.style4 form select:focus,
 				.wrapper.style4 form textarea:focus {
 					background: #252525;
